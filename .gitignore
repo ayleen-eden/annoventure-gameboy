@@ -1,0 +1,18 @@
+# Build artifacts
+*.o
+*.lst
+*.map
+*.noi
+*.sym
+*.cdb
+*.ihx
+*.adb
+*.asm
+*.rel
+build/
+
+# IntelliJ
+.idea/
+
+# macOS
+.DS_Store
